@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dstanleyboden
+- 👋 Hi, I’m David
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning R and Tableau
 
